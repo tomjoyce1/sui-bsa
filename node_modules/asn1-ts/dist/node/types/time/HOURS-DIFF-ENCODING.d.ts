@@ -1,6 +1,0 @@
-import { INTEGER } from "../../macros";
-export default class HOURS_DIFF_ENCODING {
-    readonly hours: INTEGER;
-    readonly minutes_diff: INTEGER;
-    constructor(hours: INTEGER, minutes_diff: INTEGER);
-}
